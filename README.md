@@ -15,6 +15,8 @@
 
 `[ HTML5 CANVAS ]` `[ PURE JAVASCRIPT ]` `[ NO ASSETS - EVERYTHING IS GENERATED ]`
 
+### [>>> PLAY NOW IN YOUR BROWSER <<<](https://xandertaylorx.github.io/doom-web/)
+
 ![E1M1](docs/e1m1.jpg)
 
 </div>
@@ -32,7 +34,9 @@
 
 ## >> INSERT COIN (HOW TO RUN)
 
-No install. No build. No server.
+**Fastest:** [click here to play online](https://xandertaylorx.github.io/doom-web/) - no download needed.
+
+Or run it locally. No install. No build. No server.
 
 | PLATFORM | DO THIS |
 |----------|---------|
